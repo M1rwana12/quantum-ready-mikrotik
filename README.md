@@ -8,7 +8,9 @@
 
 <br><br>
 
-[![Quantum Ready MikroTik](assets/banner.png)](https://github.com/M1rwana12/quantum-ready-mikrotik)
+<img src="assets/banner.png" alt="Quantum Ready MikroTik" width="800">
+
+<br><br>
 
 # quantum-ready-mikrotik
 
@@ -17,36 +19,36 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 <a href="https://github.com/M1rwana12/quantum-ready-mikrotik/stargazers">
-  <img src="https://img.shields.io/github/stars/M1rwana12/quantum-ready-mikrotik?label=⭐%20Star%20Me&style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117" alt="Star Me">
+  ![GitHub Repo stars](https://img.shields.io/github/stars/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117&label=⭐%20Star%20Me)
 </a>
 
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/watchers">
-  <img src="https://img.shields.io/github/watchers/M1rwana12/quantum-ready-mikrotik?label=👁️%20Watch&style=for-the-badge&logo=github&color=00BFFF&labelColor=0d1117" alt="Watch">
+<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/subscription">
+  ![GitHub Repo watchers](https://img.shields.io/github/watchers/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=00BFFF&labelColor=0d1117&label=👁️%20Watch)
 </a>
 
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/network/members">
-  <img src="https://img.shields.io/github/forks/M1rwana12/quantum-ready-mikrotik?label=🔀%20Fork&style=for-the-badge&logo=github&color=FF69B4&labelColor=0d1117" alt="Fork">
+<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/fork">
+  ![GitHub Repo forks](https://img.shields.io/github/forks/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FF69B4&labelColor=0d1117&label=🔀%20Fork)
 </a>
 
 </div>
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 <a href="https://github.com/M1rwana12/quantum-ready-mikrotik/releases/latest">
-  <img src="https://img.shields.io/github/v/release/M1rwana12/quantum-ready-mikrotik?label=Latest%20Release&style=flat-square&logo=github&color=00ff00&labelColor=0d1117" alt="Release">
+  ![GitHub release](https://img.shields.io/github/v/release/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=00ff00&labelColor=0d1117&label=Latest%20Release)
 </a>
 
 <a href="#pqc-ready">
-  <img src="https://img.shields.io/badge/PQC-Ready-brightgreen?style=flat-square&logo=shield&logoColor=white&color=00ff00&labelColor=0d1117" alt="PQC Ready">
+  ![PQC Ready](https://img.shields.io/badge/PQC-Ready-brightgreen?style=flat-square&logo=shield&logoColor=white&color=00ff00&labelColor=0d1117)
 </a>
 
 <a href="https://github.com/M1rwana12/quantum-ready-mikrotik/issues">
-  <img src="https://img.shields.io/github/issues/M1rwana12/quantum-ready-mikrotik?label=Issues&style=flat-square&logo=github&color=ff0000&labelColor=0d1117" alt="Issues">
+  ![GitHub issues](https://img.shields.io/github/issues/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=ff0000&labelColor=0d1117&label=Issues)
 </a>
 
 </div>
@@ -169,7 +171,7 @@ quantum-ready-mikrotik/
 **Когда ты уже PQC-ready, а коллеги всё на RSA...**  
 *(Квантовый кот одобряет)*
 
-<img src="assets/quantum-cat.gif" width="360" style="border-radius: 24px; box-shadow: 0 0 40px #00ffff, 0 0 80px rgba(0,255,255,0.3); transition: transform 0.3s ease;">
+<img src="assets/quantum-cat.gif" alt="Quantum Cat Meme" width="360" style="border-radius: 24px; box-shadow: 0 0 40px #00ffff, 0 0 80px rgba(0,255,255,0.3); transition: transform 0.3s ease;">
 
 <br><br>
 
