@@ -166,3 +166,5 @@ quantum-ready-mikrotik/
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)  
 Бери, улучшай, распространяй. Open-source для всех.
+
+[![Latest Release](https://img.shields.io/github/v/release/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=00ff00&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/releases/latest)
