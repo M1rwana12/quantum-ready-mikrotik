@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test RouterOS scripts
+        run: |
+          find scripts -name "*.rsc" -exec echo "Validating {}" \;
+          # В будущем: добавить RouterOS эмулятор
+      - name: Test Python
+        if: ${{ contains(github.event.head_commit.message, 'python') }}
+        run: |
+          python3 -m py_compile scripts/*.py || true

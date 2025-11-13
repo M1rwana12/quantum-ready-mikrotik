@@ -1,0 +1,19 @@
+---
+- name: Миграция MikroTik на PQC
+  hosts: mikrotik
+  gather_facts: no
+  tasks:
+    - name: Загрузка PQC сертификата
+      community.routeros.command:
+        commands:
+          - /certificate import file-name=dilithium.crt passphrase=""
+    
+    - name: Включение PQC в SSH
+      community.routeros.command:
+        commands:
+          - /ip service set ssh cipher=ml-dsa
+    
+    - name: Перезапуск SSH
+      community.routeros.command:
+        commands:
+          - /ip service set ssh disabled=no
