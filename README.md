@@ -3,7 +3,7 @@
 <br>
 
 <a href="https://github.com/M1rwana12">
-  <img src="https://avatars.githubusercontent.com/u/177818521?v=4" width="140" style="border-radius:50%; border: 6px solid #00ffff; box-shadow: 0 0 35px #00ffff, 0 0 70px rgba(0,255,255,0.4); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  <img src="https://avatars.githubusercontent.com/u/177818521?v=4" width="140" alt="M1rwana12 Profile">
 </a>
 
 <br><br>
@@ -19,39 +19,15 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+[![Star Me](https://img.shields.io/github/stars/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/stargazers)  
+[![Watch](https://img.shields.io/github/watchers/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=00BFFF&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/subscription)  
+[![Fork](https://img.shields.io/github/forks/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FF69B4&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/fork)
 
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/stargazers">
-  ![GitHub Repo stars](https://img.shields.io/github/stars/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117&label=⭐%20Star%20Me)
-</a>
+<br><br>
 
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/subscription">
-  ![GitHub Repo watchers](https://img.shields.io/github/watchers/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=00BFFF&labelColor=0d1117&label=👁️%20Watch)
-</a>
-
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/fork">
-  ![GitHub Repo forks](https://img.shields.io/github/forks/M1rwana12/quantum-ready-mikrotik?style=for-the-badge&logo=github&color=FF69B4&labelColor=0d1117&label=🔀%20Fork)
-</a>
-
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/releases/latest">
-  ![GitHub release](https://img.shields.io/github/v/release/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=00ff00&labelColor=0d1117&label=Latest%20Release)
-</a>
-
-<a href="#pqc-ready">
-  ![PQC Ready](https://img.shields.io/badge/PQC-Ready-brightgreen?style=flat-square&logo=shield&logoColor=white&color=00ff00&labelColor=0d1117)
-</a>
-
-<a href="https://github.com/M1rwana12/quantum-ready-mikrotik/issues">
-  ![GitHub issues](https://img.shields.io/github/issues/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=ff0000&labelColor=0d1117&label=Issues)
-</a>
-
-</div>
+[![Latest Release](https://img.shields.io/github/v/release/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=00ff00&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/releases/latest)  
+[![PQC Ready](https://img.shields.io/badge/PQC-Ready-brightgreen?style=flat-square&logo=shield&logoColor=white&color=00ff00&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik)  
+[![Issues](https://img.shields.io/github/issues/M1rwana12/quantum-ready-mikrotik?logo=github&style=flat-square&color=ff0000&labelColor=0d1117)](https://github.com/M1rwana12/quantum-ready-mikrotik/issues)
 
 <br><br>
 
@@ -171,7 +147,7 @@ quantum-ready-mikrotik/
 **Когда ты уже PQC-ready, а коллеги всё на RSA...**  
 *(Квантовый кот одобряет)*
 
-<img src="assets/quantum-cat.gif" alt="Quantum Cat Meme" width="360" style="border-radius: 24px; box-shadow: 0 0 40px #00ffff, 0 0 80px rgba(0,255,255,0.3); transition: transform 0.3s ease;">
+<img src="assets/quantum-cat.gif" alt="Quantum Cat Meme" width="360">
 
 <br><br>
 
@@ -188,6 +164,5 @@ quantum-ready-mikrotik/
 
 ## Лицензия
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=mit)](LICENSE)  
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)  
 Бери, улучшай, распространяй. Open-source для всех.
-```
