@@ -1,0 +1,31 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: "Quantum Ready MikroTik ${{ github.ref_name }}"
+          body: |
+            ## PQC Toolkit for MikroTik
+
+            - Аудит уязвимых алгоритмов (RSA/ECC)
+            - Генерация Dilithium сертификатов
+            - PQC TLS прокси
+            - Docker + Ansible
+            - Полный гайд + мемы
+
+            **Будь готов к квантовому будущему!**
+          draft: false
+          prerelease: false
